@@ -1,4 +1,4 @@
-# D2Net
+# MFR
 
 Code for this paper [An LED Detection and Recognition Method Based on Deep Learning in Vehicle Optical Camera Communication]
 
