@@ -1,6 +1,6 @@
 # MFR
 
-Code for this paper [LED Detection and Recognition Method Based on Deep Learning in Vehicle Optical Camera Communication]
+Code for this paper [LED recognition method based on deep learning in UAV optical camera communication]
 
 XU SUN,  QING CHENG
 
