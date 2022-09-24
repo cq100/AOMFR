@@ -1,6 +1,6 @@
 # MFR
 
-Code for this paper [An LED Detection and Recognition Method Based on Deep Learning in Vehicle Optical Camera Communication]
+Code for this paper [LED Detection and Recognition Method Based on Deep Learning in Vehicle Optical Camera Communication]
 
 XU SUN,  QING CHENG
 
@@ -23,11 +23,6 @@ To test on a single image,
 
 ```python detect.py --image ./data/1.jpg```
 
-
-## Pre-trained model
-
-The pre-trained model is "D2Net.h5". It can be downloaded via the links below:
-- [D2Net.h5](https://drive.google.com/file/d/11rkp2p7WjG1JD2wXzWsXAl6nOKJ8Oiap/view?usp=sharing)
 
 ## Remarks
 
