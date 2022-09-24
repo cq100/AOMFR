@@ -18,8 +18,6 @@ XU SUN,  QING CHENG
 
 #### Command
 
-To test on a single image,
-
 ```python3 Machine Learning\MFR3.py```
 
 
