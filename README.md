@@ -26,7 +26,3 @@ To test on a single image,
 ## Remarks
 1. In order to facilitate understanding, we simplified this code. If you have questions, please contact us in time
 2. This code will continue to be updated
-
-
-```
-
