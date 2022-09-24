@@ -9,9 +9,8 @@ XU SUN,  QING CHENG
 
 #### Command
 
-```python train.py```
+```python3 Machine Learning\MFR3.py```
 
-This configuration file is core/config.py
 
 
 
@@ -21,16 +20,12 @@ This configuration file is core/config.py
 
 To test on a single image,
 
-```python detect.py --image ./data/1.jpg```
+```python Machine Learning\MFR3.py```
 
 
 ## Remarks
-
-1. When you only have one GPU, please comment out the Gradnorm code block
-2. The pre-trained model is trained on a private data set. When you try to do other tasks, please retrain the model on a new data set
-3. Please set the learning rate of the discriminator reasonably according to your task
-4. In order to facilitate understanding, we simplified this code. If you have questions, please contact us in time
-5. This code will continue to be updated
+1. In order to facilitate understanding, we simplified this code. If you have questions, please contact us in time
+2. This code will continue to be updated
 
 
 ```
