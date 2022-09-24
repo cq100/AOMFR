@@ -20,7 +20,7 @@ XU SUN,  QING CHENG
 
 To test on a single image,
 
-```python Machine Learning\MFR3.py```
+```python3 Machine Learning\MFR3.py```
 
 
 ## Remarks
